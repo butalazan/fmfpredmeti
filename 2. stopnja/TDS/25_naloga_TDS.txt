@@ -1,0 +1,4 @@
+Compute the Lyapunov exponents in the Sinai billiard, in the shape
+of a unit square with a central circular obstacle of radius ρ < 1/2,
+in dependence of parameter ρ. Can you qualitatively explain the results? Draw some short periodic orbits and analytically compute their
+stability exponents.
